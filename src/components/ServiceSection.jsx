@@ -80,7 +80,7 @@ export default function ServicesSection() {
                                                 color: "var(--theme-heading)",
                                             }}
                                         >
-                                            <Icon size={24} />
+                                            <Icon size={24} className="transition-colors duration-500 group-hover:text-(--theme-primary-strong)" />
                                         </div>
 
                                         <h3
@@ -113,7 +113,7 @@ export default function ServicesSection() {
                                             >
                                                 <ArrowUpRight
                                                     size={16}
-                                                    className="transition-transform duration-500 ease-out group-hover:rotate-45 group-active:rotate-45"
+                                                    className="transition-transform group-hover:text-white duration-500 ease-out group-hover:rotate-45 group-active:rotate-45"
                                                 />
                                             </span>
                                         </button>
