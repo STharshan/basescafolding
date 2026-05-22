@@ -1,6 +1,6 @@
 export const siteConfig = {
   branding: {
-    companyName: "Empire Scaffolding",
+    companyName: "Base Scaffolding",
     logo: "/logo.png",
     logoAlt: "Logo",
     primaryCtaLabel: "Get a Free Quote",
@@ -129,9 +129,9 @@ export const siteConfig = {
 
 
   footer: {
-    introTitle: "Hello, We Are AW Detailing",
+    introTitle: "Hello, We Are Base Scaffolding",
     introDescription:
-      "Our experienced technicians provide quality services for your car.",
+      "Our experienced team provide the best service.",
     officeTitle: "Office",
     officeLocation: "Yorkshire",
     officeEmail: "office@-nottingham.co.uk",
