@@ -74,7 +74,7 @@ export default function ServicesSection() {
                                 <div className="relative z-10 flex flex-1 flex-col justify-between">
                                     <div className="transition-all duration-500 group-hover:translate-y-1 group-active:translate-y-1">
                                         <div
-                                            className="service-icon mb-8 flex h-14 w-14 items-center justify-center rounded-full transition-all duration-500 ease-out"
+                                            className="service-icon mb-8 flex h-14 w-14 items-center group-hover:text-(--theme-primary-strong) justify-center rounded-full transition-all duration-500 ease-out"
                                             style={{
                                                 backgroundColor: "var(--theme-surface-soft)",
                                                 color: "var(--theme-heading)",

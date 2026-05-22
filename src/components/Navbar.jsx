@@ -113,7 +113,7 @@ const Navbar = ({ overlay = false }) => {
           {/* Mobile Target CTA with active touch press effect */}
           <a
             href={branding.primaryCtaHref}
-            className={`group inline-flex items-center justify-center gap-3 rounded-full font-semibold text-white transition-all duration-200 active:scale-[0.98] active:bg-(--theme-accent-strong) active:text-(--theme-primary-strong)] ${
+            className={`group inline-flex items-center justify-center gap-3 rounded-full font-semibold text-white hover transition-all duration-200 active:scale-[0.98] active:bg-(--theme-accent-strong) active:text-(--theme-primary-strong)] ${
               overlay ? "mt-2 w-full py-3 text-sm" : "px-5 py-3 w-full"
             }`}
             style={{ backgroundColor: "var(--theme-accent)" }}

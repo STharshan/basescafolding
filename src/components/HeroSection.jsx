@@ -134,9 +134,9 @@ const HeroSection = () => {
                       style={{ backgroundColor: "var(--theme-accent)" }}
                     />
 
-                    <span className="relative z-10 inline-flex items-center gap-3 transition-colors duration-300">
+                    <span className="relative z-10 inline-flex group-hover:text-(--theme-primary-strong) items-center gap-3 transition-colors duration-300">
                       {branding.primaryCtaLabel}
-                      <ArrowUpRight className="h-5 w-5 transition-transform duration-300 group-hover:rotate-45 group-active:rotate-45" />
+                      <ArrowUpRight className="h-5 w-5 group-hover:text-white transition-transform duration-300 group-hover:rotate-45 group-active:rotate-45" />
                     </span>
                   </a>
 
