@@ -133,7 +133,7 @@ export const siteConfig = {
     introDescription:
       "Our experienced team provide the best service.",
     officeTitle: "Office",
-    officeLocation: "Yorkshire",
+    officeLocation: "Manchester",
     officeEmail: "office@-nottingham.co.uk",
     officePhone: "07739583704",
     linksTitle: "Links",
