@@ -4,7 +4,7 @@ export const siteConfig = {
     logo: "/logo.png",
     logoAlt: "Logo",
     primaryCtaLabel: "Get a Free Quote",
-    primaryCtaHref: "mailto:Shay@empirescaffolding.co.uk",
+    primaryCtaHref: "mailto:Shay@basescaffolding.co.uk",
   },
   navigation: {
     links: [
